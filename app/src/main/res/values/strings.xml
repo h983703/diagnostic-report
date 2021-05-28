@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiagnosticReport</string>
+    <string name="conclusion">jelentés</string>
+    <string name="mentesGomb">Mentés</string>
+    <string name="exportGomb">Exportálás json</string>
+    <string name="visszaGomb">Vissza</string>
+    <string name="paciensNeve">páciens neve</string>
+    <string name="fertozesTipusai">vírusos/bakteriális/gombás fertőzés</string>
+    <string name="mintaTipusai">vér/vizelet/széklet minta</string>
+    <string name="identi">ID</string>
+    <string name="ujJelentesHozzaad">Új jelentés hozzáadása</string>
+</resources>

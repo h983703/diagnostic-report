@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044117980143",
+    "project_id": "microbiology-9096e",
+    "storage_bucket": "microbiology-9096e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044117980143:android:f57a7b1d9444d0bfb0ac1a",
+        "android_client_info": {
+          "package_name": "com.example.diagnosticreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044117980143-sotmbd6u09vm2pbv511cu4eeuimsta1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diagnosticreport",
+            "certificate_hash": "481fc6dd590103138962a731f27cc6b944ed8053"
+          }
+        },
+        {
+          "client_id": "1044117980143-bt1kpb31snjkea91apsjc1kuu5sstsu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbIda94fctyVzlnu3ZGYXoZio6bBa61Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044117980143-bt1kpb31snjkea91apsjc1kuu5sstsu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
